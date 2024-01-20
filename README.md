@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/unipihmsi/Gallery/blob/main/WhatsApp%20Image%202024-01-20%20at%2017.12.29_740f67cc.jpg?raw=true"/>
+  <img src="https://github.com/unipihmsi/Gallery/blob/main/WhatsApp%20Image%202024-01-20%20at%2017.12.29_740f67cc.jpg?raw=true" height="500"/>
 </div>
 
 <div align="center" id="badges">
@@ -20,7 +20,7 @@ We are a Students Association from Indonesia. <img src="https://media.giphy.com/
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox: How to reach us: unipihmsi@gmail.com | 
+- :mailbox: How to reach us: unipihmsi@gmail.com | @hmsi.ipem | https://hmsi-ip.or.id/ 
 
 ---
 
