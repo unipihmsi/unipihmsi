@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Us :
 We are a Students Association from Indonesia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: We are Students Association from University of Insan Pembangunan Indonesia.
+- :telescope: We are a Students Association from University of Insan Pembangunan Indonesia.
 
 - :seedling: All of ours projects are available at https://github.com/unipihmsi
 
