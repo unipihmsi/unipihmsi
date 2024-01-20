@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/unipihmsi/Gallery/blob/main/WhatsApp%20Image%202024-01-20%20at%2017.12.29_740f67cc.jpg?raw=true" height="350"/>
+  <img src="https://github.com/unipihmsi/unipihmsi/blob/main/Foto%20HMSI.jpg?raw=true" height="350"/>
 </div>
 
 <div align="center" id="badges">
