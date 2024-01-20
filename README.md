@@ -28,7 +28,7 @@ We are a Students Association from Indonesia. <img src="https://media.giphy.com/
       <img src="https://img.shields.io/badge/HMSI-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
     <a href="https://www.instagram.com/hmsi.ipem/">
-      <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"/>
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
     </a>
 
 ---
