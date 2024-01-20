@@ -18,7 +18,7 @@ We are a Students Association from Indonesia. <img src="https://media.giphy.com/
 
 - :seedling: All of ours projects are available at https://github.com/unipihmsi
 
-- :zap: contact us for collaboration.
+- :zap: Contact us for collaboration.
 
 - :mailbox: How to reach us: unipihmsi@gmail.com | @hmsi.ipem | https://hmsi-ip.or.id/ 
 
